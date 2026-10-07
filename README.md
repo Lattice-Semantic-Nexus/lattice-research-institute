@@ -7,7 +7,6 @@
   <imgts/lattice-research-institute-logo.png
 </p>
 
-# Lattice Research Institute
 
 Independent research and analysis within the Lattice ecosystem.
 
